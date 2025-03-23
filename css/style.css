@@ -1,0 +1,45 @@
+@media all and (max-width:600.99px){
+    .h-img{
+        height: 400px;
+    }
+}
+@media all and (min-width:601px) and (max-width:1200.99px){
+    .h-img{
+        height: 400px;
+    }
+}
+@media all and (min-width:1201px){
+    .h-img{
+        height: 550px;
+    }
+}
+.bg-d{
+    background-color: #FF3E41 !important;
+}
+.picback{
+    background: url(../img/carousel-1.jpg) no-repeat center;
+    background-size: cover;
+    height: 110vh;
+}
+.picback1{
+    background: url(../img/carousel-1.jpg) no-repeat center;
+    background-size: cover;
+    height: 50vh;
+}
+.bg{
+    background: rgba(6, 3, 21, .5);
+}
+.ho-a:hover{
+    background-color: #ff5b5e !important;
+    border-color: #ff5b5e !important;
+    cursor: pointer;
+}
+.c-d{
+    color: #FF3E41 !important;
+}
+.bg-fo{
+    background-color: #F8F2F0 !important;
+}
+.bo-der{
+    border-bottom: 1px solid rgba(256, 256, 256, .1);
+}
