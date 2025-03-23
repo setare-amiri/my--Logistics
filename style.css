@@ -1,0 +1,81 @@
+.picback{
+    background: url(../img/banner.jpg) center center no-repeat;
+    background-size: cover;
+    height: 105vh;
+}
+.picback2{
+    background: url(../img/counter-banner.jpg) center center no-repeat fixed;
+    background-size: cover;
+    height: 50vh;
+}
+.text-color{
+    color:rgb(133, 144, 152);
+}
+.h{
+    height: 13vh;
+}
+.bg{
+    background: rgba(65, 73, 89, 0.65);
+}
+.list-top{
+    position: relative;
+    top: -95px;
+    z-index: 1;
+}
+.b-shadow{
+    height: 170px;
+    box-shadow: 0 0px 10px rgba(71, 71, 71, .2);
+}
+.bo{
+    border: 1px solid #d3d6d9;
+    color: #767f86;
+    border-radius: 3px;
+    width: 120px;
+}
+.box-sh{
+    box-shadow: 0 0px 5px rgba(71, 71, 71, .2);
+}
+.bgg{
+    background: #f8fafb;
+}
+.faa-starr{
+    color: #ffda2b;
+    margin: 9px 4px 0 0;
+}
+.list-stylee{
+    list-style: none;
+    display: inline-block;
+}
+.card-text{
+    color: #505866;
+    font-size: 25px;
+}
+.card-text2{
+    color: #a2a5ab;
+    font-size: 20px;
+}
+.card-text3{
+    color: #a2a5ab;
+}
+.bagg{
+    background: rgba(75, 75, 75, .60);
+}
+.matn-col6{
+    color: #8f949d;
+    font-size: 15px;
+}
+.border-matn-col6{
+    border-right: 1px solid #dde0e4;
+}
+.matn-lorem{
+    color: rgb(118, 127, 134);
+}
+.card:hover a{
+    color: red !important;
+}
+.h-form{
+    height: 8vh !important;
+}
+.w-form{
+    width: 80vw;
+}
